@@ -64,7 +64,7 @@ ORDER BY total_sales DESC;
 
 --Q8
 
-SELECT a.category_id, a.category_name, ROUND(AVG(CAST((b.price) AS FLOAT)),2)AS avg_price
+SELECT a.category_id, a.category_name, ROUND(AVG(CAST((b.price) AS FLOAT)),2) AS avg_price
 FROM category AS a
 INNER JOIN products AS b
 ON a.category_id = b.category_id
@@ -165,7 +165,7 @@ a.country,
 SUM(b.quantity) AS total_sales, 
 COUNT(c.claim_id) AS warranty_claims,
 	CASE 
-		WHEN CAST(COUNT(c.claim_id) AS FLOAT) / CAST(SUM(b.quantity) AS FLOAT) * 100 = 0 
+	WHEN CAST(COUNT(c.claim_id) AS FLOAT) / CAST(SUM(b.quantity) AS FLOAT) * 100 = 0 
         THEN 'No Claim Chance'
         ELSE CAST(ROUND(CAST(COUNT(c.claim_id) AS FLOAT) / CAST(SUM(b.quantity) AS FLOAT) * 100, 2) AS VARCHAR)
     END AS percentage_chance
