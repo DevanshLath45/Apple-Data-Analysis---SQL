@@ -177,7 +177,7 @@ ON b.sale_id = c.sale_id
 GROUP BY a.country
 ORDER BY a.country;
 
---Q17 Analyze the year-by-year growth ratio for each store.
+--Q17
 
 WITH cte AS (
 	SELECT a.store_id, a.store_name, YEAR(b.sale_date) AS year, (SUM(b.quantity * c.price)) AS total_sales
