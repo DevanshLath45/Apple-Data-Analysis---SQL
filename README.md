@@ -5,11 +5,11 @@ This project involved analyzing key areas such as **store performance**, **produ
 
 Using SQL, I addressed several business questions, including:
 
-- 🔹 Identifying the **top-selling stores and products**
-- 🔹 Calculating the **correlation between product price and warranty claims** for products sold in the last five years, segmented by price range
-- 🔹 Computing **year-over-year growth** for stores
-- 🔹 Analyzing **warranty trends and void claims**
-- 🔹 Segmenting **sales trends by product lifecycle**
+- Identifying the **top-selling stores and products**
+- Calculating the **correlation between product price and warranty claims** for products sold in the last five years, segmented by price range
+- Computing **year-over-year growth** for stores
+- Analyzing **warranty trends and void claims**
+- Segmenting **sales trends by product lifecycle**
 
 💡 **Key Highlights:**
 
