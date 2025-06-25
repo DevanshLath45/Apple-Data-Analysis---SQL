@@ -35,7 +35,7 @@ The primary objective of this project is to showcase SQL proficiency through com
 - Computing **year-over-year growth** for stores
 - Analyzing **warranty trends and void claims**
 - Segmenting **sales trends by product lifecycle**
-- More problems in the Questions.pdf part
+- Additional problems can be found in the [Questions.pdf](https://github.com/DevanshLath45/Apple-Data-Analysis---SQL/blob/main/Questions.pdf) file.
 
 ## **Identifying Business Problems**
 
