@@ -49,17 +49,20 @@ Key business problems identified:
 
 ---
 
-- Design and implement a **normalized database schema**
-- Clean and preprocess **real-world datasets** for analytical use
-- Apply advanced SQL techniques, including **window functions**, **subqueries**, and **joins**
-- Conduct **in-depth business analysis** using SQL
-- Optimize **query performance** and manage **large datasets** efficiently
+## **Learning Outcomes**
+
+This project helped me to:
+
+- Develop a **well-structured, normalized database schema** to ensure data integrity and efficiency
+- Perform thorough **data cleaning and preprocessing** on complex real-world datasets for accurate analysis
+- Utilize advanced SQL features such as **window functions**, **nested queries**, and **complex joins** to extract deep insights
+- Execute comprehensive **business data analysis** leveraging SQL to inform strategic decisions
+- Enhance **query efficiency** and effectively handle **large-scale datasets** to improve performance and scalability
+
 
 ---
 
 ## **Conclusion**
-
-## ✅ **Conclusion**
 
 This advanced SQL project showcases my ability to solve **real-world business challenges** through structured and efficient queries. From enhancing **sales performance** to optimizing **inventory and logistics**, the project delivers meaningful insights into operational performance and strategic opportunities.
 
