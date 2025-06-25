@@ -1,5 +1,5 @@
 ---
-# Apple_Sales_Analysis_Project
+# Apple Store Performance & Product Sales Analysis Project
 
 ---
 <img src="https://github.com/DevanshLath45/Apple-Data-Analysis---SQL/blob/main/Apple.jpg" alt="Apple Logo" width="750" height="350"/>
