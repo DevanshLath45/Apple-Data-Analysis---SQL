@@ -45,6 +45,7 @@ Key business problems identified:
 3. Inconsistent year-over-year growth across stores, highlighting the need for localized strategies to address underperforming locations.
 4. Around 26% of warranty claims are marked as void, suggesting issues in the claims process or customer misuse.
 5. Products like iPhone 14, 14 Pro, 15, and 15 Pro see most of their sales within the first 6 months, pointing to rapid demand drop-offs and potential inventory management challenges.
+6. See the [Outputs.pdf](https://github.com/DevanshLath45/Apple-Data-Analysis---SQL/blob/main/Outputs.pdf) file for additional outputs generated from the analysis.
 
 ---
 
